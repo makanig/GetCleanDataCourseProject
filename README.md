@@ -10,6 +10,7 @@
 * README.md - this REAMD me file
 
 ## The directory structure placement for Data files is:
+```
 subTest <- "data/test/subject_test.txt"
 xTest <- "data/test/X_test.txt"
 yTest <- "data/test/y_test.txt"
@@ -20,3 +21,4 @@ yTrain <- "data/train/y_train.txt"
 
 features <- "data/features.txt"
 activityLabels <- "data/activity_labels.txt"
+```
