@@ -1,5 +1,5 @@
 # GetCleanDataCourseProject
-## This project is for the Project work for Getting & Cleaning Data.
+## This README is for the course Project work for Getting & Cleaning Data.
 
 ### The files in this repository are:
 
