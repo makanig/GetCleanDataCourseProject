@@ -70,7 +70,7 @@ doMean <- function (x) { # Mean by activity and subject
 }
 d <- ddply(combined, .(Subject, Activity),  c("doMean"))
 ```
-## The resultant data set is a tidy set because each variable measured is in one column and each different (mean) observation is in one row.
+## The resultant data set (180 rows, 88 columns) is a tidy set because each variable measured is in one column and each different (mean) observation is in one row.
 
 ## The full list of attributes and data types is described below
 
